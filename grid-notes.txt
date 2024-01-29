@@ -1,0 +1,2 @@
+1. Flex is a unidirectional.
+2. Grid is a multidirectional.
