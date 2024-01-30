@@ -1,2 +1,4 @@
-1. Flex is a unidirectional.
-2. Grid is a multidirectional.
+1. Flex is a unidirectional or one dimensional.
+2. Grid is a two directional or two dimensional.
+3. grid-template-columns: (2, 1fr) -> এটার মানে হচ্ছে ২ বার রিপিট হবে + যতটুকু জায়গা আছে ততটুকু জায়গা নিয়ে বসে যাবে....
+grid-property: align-items e stretch মানে হচ্ছে টাইনা লম্বা করা....
